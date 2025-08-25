@@ -1,6 +1,6 @@
 # Supervised Knowledge May Hurt Novel Class Discovery Performance
 
-**📄 [Read the Paper](https://openreview.net/forum?id=ULS0J32HHU)** | **👤 Primary Author: Ziyun Li** | **🔗 [Upstream Repository](https://github.com/J-L-O/SK-Hurt-NCD)**
+**📄 [Read the Paper](https://openreview.net/forum?id=qj7pjRzr_P)** | **👤 Primary Author: Ziyun Li** | **🔗 [Upstream Repository](https://github.com/J-L-O/SK-Hurt-NCD)**
 
 ---
 
@@ -130,7 +130,7 @@ If you use this code or find our work helpful, please cite our paper:
   author={Li, Ziyun and Otholt, Jona and Dai, Ben and Hu, Di and Meinel, Christoph and Yang, Haojin},
   journal={Transactions on Machine Learning Research},
   year={2024},
-  url={https://openreview.net/forum?id=ULS0J32HHU}
+  url={https://openreview.net/forum?id=qj7pjRzr_P}
 }
 ```
 
