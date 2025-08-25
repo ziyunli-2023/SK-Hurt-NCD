@@ -1,9 +1,15 @@
-## Supervised Knowledge May Hurt Novel Class Discovery Performance
+# Supervised Knowledge May Hurt Novel Class Discovery Performance
 
-This repository contains the code for our TMLR paper 
+**📄 [Read the Paper](https://openreview.net/forum?id=ULS0J32HHU)** | **👤 Primary Author: Ziyun Li** | **🔗 [Original Repository](https://github.com/J-L-O/SK-Hurt-NCD)**
+
+---
+
+**Official Implementation by Primary Author**
+
+This is the official implementation repository maintained by the primary author for our TMLR paper:
 
 > **Supervised Knowledge May Hurt Novel Class Discovery Performance**<br>
-> Ziyun Li, Jona Otholt, Ben Dai, Di Hu, Christoph Meinel, Haojin Yang
+> **Ziyun Li**, Jona Otholt, Ben Dai, Di Hu, Christoph Meinel, Haojin Yang
 
 > **Purely self supervised learning may outperform supervised learning in NCD**<br>
 > <img width="1134" alt="image" src="https://user-images.githubusercontent.com/8895593/237053158-de151857-d87c-4457-9c68-46964a4bd7e4.png">
@@ -113,6 +119,20 @@ to run the discovery phase using the SwAV pretrained model from the previous exa
 For convenience, we provide the pretrained supervised / SwAV models in 
 [this Google Drive folder](https://drive.google.com/drive/folders/1-IJDStQSU6zAeMGIt37GU-yQSsW2PgyW?usp=share_link).
 
+
+### Citation
+
+If you use this code or find our work helpful, please cite our paper:
+
+```bibtex
+@article{li2024supervised,
+  title={Supervised Knowledge May Hurt Novel Class Discovery Performance},
+  author={Li, Ziyun and Otholt, Jona and Dai, Ben and Hu, Di and Meinel, Christoph and Yang, Haojin},
+  journal={Transactions on Machine Learning Research},
+  year={2024},
+  url={https://openreview.net/forum?id=ULS0J32HHU}
+}
+```
 
 ### Acknowledgements
 
