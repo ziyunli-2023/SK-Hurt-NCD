@@ -1,12 +1,12 @@
 # Supervised Knowledge May Hurt Novel Class Discovery Performance
 
-**📄 [Read the Paper](https://openreview.net/forum?id=ULS0J32HHU)** | **👤 Primary Author: Ziyun Li** | **🔗 [Original Repository](https://github.com/J-L-O/SK-Hurt-NCD)**
+**📄 [Read the Paper](https://openreview.net/forum?id=ULS0J32HHU)** | **👤 Primary Author: Ziyun Li** | **🔗 [Upstream Repository](https://github.com/J-L-O/SK-Hurt-NCD)**
 
 ---
 
-**Official Implementation by Primary Author**
+**Primary Author's Fork**
 
-This is the official implementation repository maintained by the primary author for our TMLR paper:
+This fork is maintained by the primary author of the paper for our TMLR work:
 
 > **Supervised Knowledge May Hurt Novel Class Discovery Performance**<br>
 > **Ziyun Li**, Jona Otholt, Ben Dai, Di Hu, Christoph Meinel, Haojin Yang
